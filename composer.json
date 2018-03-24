@@ -1,0 +1,29 @@
+{
+    "name": "aillen",
+    "description": "Fly框架",
+    "type": "project",
+    "authors": [
+        {
+            "name": "aillen",
+            "email": "aillen-lin@foxmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":
+    {
+        "files":[
+            "system/helper.php"
+        ],
+        "psr-4":{
+            "kernel\\":"kernel",
+            "app\\":"app",
+            "system\\":"system"
+        }
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
