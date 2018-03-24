@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c14333e8-8cf4-4f76-8554-22a23fd73942" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/admin/controller/ArticleController.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/admin/controller/IndexController.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/admin/view/article/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/admin/view/index/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/admin/view/index/welcome.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/home/controller/ArticleController.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/home/controller/IndexController.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/home/view/article/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/home/view/index/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/home/view/index/welcome.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kernel/core/Boot.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kernel/core/Controller.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kernel/model/Base.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kernel/model/Model.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kernel/view/Base.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/kernel/view/View.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/index.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/view/message.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/view/welcome.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/rrr.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/system/config/database.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/system/config/view.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/system/helper.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/system/model/Student.php" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -78,7 +53,7 @@
       <file leaf-file-name="Base.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kernel/model/Base.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
+            <state relative-caret-position="297">
               <caret line="31" column="42" lean-forward="false" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
               <folding>
                 <element signature="e#164#172#0#PHP" expanded="true" />
@@ -284,18 +259,17 @@
       <workItem from="1521729846119" duration="2372000" />
       <workItem from="1521764821764" duration="8874000" />
       <workItem from="1521791497129" duration="18566000" />
-      <workItem from="1521853510601" duration="5921000" />
+      <workItem from="1521853510601" duration="7531000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71237000" />
+    <option name="totallyTimeSpent" value="72847000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20196672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20196672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -303,7 +277,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41781875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.843318" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -780,7 +754,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kernel/model/Base.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
+        <state relative-caret-position="297">
           <caret line="31" column="42" lean-forward="false" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
           <folding>
             <element signature="e#164#172#0#PHP" expanded="true" />
